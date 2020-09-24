@@ -1,0 +1,19 @@
+{
+  "name": "reverse-engineering-application",
+  "version": "1.0.0",
+  "description": "Reverse Engineering Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaudaminiKeshav/Reverse-Engineering-Application.git"
+  },
+  "author": "Saudamini Keshav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaudaminiKeshav/Reverse-Engineering-Application/issues"
+  },
+  "homepage": "https://github.com/SaudaminiKeshav/Reverse-Engineering-Application#readme"
+}
